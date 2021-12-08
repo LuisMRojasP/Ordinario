@@ -7,7 +7,7 @@ Alumnos: Rojas Palacios Luis Martin
 Profesor:Lopez Chau Asdrubal
 Descripción: Identificador de sonidos
 
-Created on Tue Nov 30 18:38:04 2021
+Created on Tue Dec 3 18:38:04 2021
 
 @author: Luis Martin R.P
 """
